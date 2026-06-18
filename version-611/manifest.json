@@ -1,0 +1,22 @@
+{
+  "site_title": "精选电影大全-精选电影合集-分类内容持续更新",
+  "generated_date": "2026-05-26",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "category_counts": {
+    "selected-movies": 200,
+    "drama-series": 200,
+    "suspense-crime": 200,
+    "romance-comedy": 200,
+    "action-adventure": 200,
+    "family-drama": 200,
+    "fantasy-sci-fi": 200,
+    "horror-thriller": 200,
+    "chinese-region": 200,
+    "global-films": 200
+  },
+  "m3u8_source_count": 10,
+  "baidu_script_inserted": true,
+  "notes": "All visible pages are static HTML. Movie entries are generated from data_2000.txt only."
+}

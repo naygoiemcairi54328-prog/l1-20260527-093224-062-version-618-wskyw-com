@@ -1,0 +1,19 @@
+{
+  "siteTitle": "推荐电视剧大全-精选剧集片库-高清剧集在线播放",
+  "logo": "高清剧集大全",
+  "movieCount": 2000,
+  "detailPageCount": 2000,
+  "categoryCount": 8,
+  "categoryDistribution": {
+    "精选剧集": 250,
+    "热播剧场": 250,
+    "口碑精选": 250,
+    "新剧片库": 250,
+    "剧情专区": 250,
+    "轻松时刻": 250,
+    "午夜影厅": 250,
+    "经典路线": 250
+  },
+  "videoSourceCount": 20,
+  "imageReferencePattern": "顶级目录 1.jpg 到 150.jpg 循环引用"
+}
